@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9189
     wikipedia: http://en.wikipedia.org/wiki/Josiah_Quincy_III
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20256#Memoir-of-the-Life-of-John-Quincy-Adams.
 gutenberg_issued: '2007-01-02'
 gutenberg_type: Text
 identifiers:
