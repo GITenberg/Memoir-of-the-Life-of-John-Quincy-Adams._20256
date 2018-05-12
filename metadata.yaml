@@ -1,0 +1,27 @@
+_repo: Memoir-of-the-Life-of-John-Quincy-Adams._20256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quincy, Josiah
+    birthdate: 1772
+    deathdate: 1864
+    gutenberg_agent_id: '9189'
+    url: http://www.gutenberg.org/2009/agents/9189
+    wikipedia: http://en.wikipedia.org/wiki/Josiah_Quincy_III
+description: ''
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adams, John Quincy, 1767-1848'
+- !lcc 'E300'
+title: Memoir of the Life of John Quincy Adams.
+url: http://www.gutenberg.org/ebooks/20256
